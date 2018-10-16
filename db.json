@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "all_articles": [
     {
       "userId": 1,
       "id": 1,
@@ -43,34 +43,35 @@
       "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
     }
   ],
-  "comments": [
+  "all_comments": [
     { 
       "postId": 1,
+      "comments":
       [
         {
           "id": 1, 
           "email": "abc@xyz.com",
-          "body": "some comment", 
+          "body": "some comment"
         },
         {
           "id": 2, 
           "email": "kkk@xyz.com",
-          "body": "some comment", 
+          "body": "some comment"
         }
       ]
     },
     { 
       "postId": 2,
-      [
+      "comments": [
         {
           "id": 3, 
           "email": "abc@xyz.com",
-          "body": "some comment", 
+          "body": "some comment"
         },
         {
           "id": 4, 
           "email": "kkk@xyz.com",
-          "body": "some comment", 
+          "body": "some comment"
         }
       ]
     }
