@@ -44,17 +44,35 @@
     }
   ],
   "comments": [
-    {
-      "id": 1, 
-      "email": "abc@xyz.com",
-      "body": "some comment", 
-      "postId": 1
+    { 
+      "postId": 1,
+      [
+        {
+          "id": 1, 
+          "email": "abc@xyz.com",
+          "body": "some comment", 
+        },
+        {
+          "id": 2, 
+          "email": "kkk@xyz.com",
+          "body": "some comment", 
+        }
+      ]
     },
-    {
-      "id": 1, 
-      "email": "kkk@xyz.com",
-      "body": "some comment", 
-      "postId": 1
+    { 
+      "postId": 2,
+      [
+        {
+          "id": 3, 
+          "email": "abc@xyz.com",
+          "body": "some comment", 
+        },
+        {
+          "id": 4, 
+          "email": "kkk@xyz.com",
+          "body": "some comment", 
+        }
+      ]
     }
   ]
 }
