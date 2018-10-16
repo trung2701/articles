@@ -43,37 +43,17 @@
       "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
     }
   ],
-  "all_comments": [
-    { 
-      "postId": 1,
-      "comments":
-      [
-        {
-          "id": 1, 
-          "email": "abc@xyz.com",
-          "body": "some comment"
-        },
-        {
-          "id": 2, 
-          "email": "kkk@xyz.com",
-          "body": "some comment"
-        }
-      ]
+  "all_comments": 
+  [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     },
-    { 
-      "postId": 2,
-      "comments": [
-        {
-          "id": 3, 
-          "email": "abc@xyz.com",
-          "body": "some comment"
-        },
-        {
-          "id": 4, 
-          "email": "kkk@xyz.com",
-          "body": "some comment"
-        }
-      ]
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
     }
   ]
 }
