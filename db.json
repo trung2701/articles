@@ -55,5 +55,56 @@
       "body": "some comment",
       "postId": 1
     }
-  ]
+  ],
+  "categoryList": [
+      {
+        "id": 7,
+        "name": "category6",
+        "parentId": null,
+        "description": null,
+        "numberOfArticles": 1
+      },
+      {
+        "id": 6,
+        "name": "category5",
+        "parentId": null,
+        "description": "asad",
+        "numberOfArticles": 0
+      },
+      {
+        "id": 5,
+        "name": "category 4",
+        "parentId": null,
+        "description": "test category",
+        "numberOfArticles": 2
+      },
+      {
+        "id": 4,
+        "name": "category 3",
+        "parentId": null,
+        "description": "test category",
+        "numberOfArticles": 1
+      },
+      {
+        "id": 3,
+        "name": "category 2",
+        "parentId": null,
+        "description": "test category",
+        "numberOfArticles": 3
+      },
+      {
+        "id": 2,
+        "name": "category 1",
+        "parentId": null,
+        "description": "test category",
+        "numberOfArticles": 3
+      },
+      {
+        "id": 1,
+        "name": "updated category",
+        "parentId": null,
+        "description": "test update category",
+        "numberOfArticles": 2
+      }
+    ]
 }
