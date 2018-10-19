@@ -1,18 +1,22 @@
 {
-  "articles": [
+  "related_articles": [
     {
       "userId": 1,
       "id": "sun-aus",
-      "featuredImage": "http://www.sherkspear.com/wp-content/uploads/2015/04/jsfiddle.png",
-      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "featuredImage": "https://i2.wp.com/beebom.com/wp-content/uploads/2016/01/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg",
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
     },
     {
       "userId": 1,
       "id": "sun-uk",
-      "featuredImage": "http://www.sherkspear.com/wp-content/uploads/2015/04/jsfiddle.png",
-      "title": "qui est esse",
-      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+      "featuredImage": "https://cdn.pixabay.com/photo/2013/04/06/11/50/image-editing-101040_960_720.jpg",
+      "title": "qui est esse"
+    },
+    {
+      "userId": 1,
+      "id": "sun-us",
+      "featuredImage": "https://www.w3schools.com/w3images/fjords.jpg",
+      "title": "qui est esse"
     }
   ],
   "all_articles": [
